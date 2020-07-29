@@ -7,3 +7,11 @@ yarn add ts-node-dev -D
 
 instalar pelo market place o editor config
 clicar na raiz do projeto e clicar na opação genarete .editorconfig
+
+yarn add eslint -D
+yarn eslint --init
+
+yarn add -D eslint-plugin-react@^7.20.0 @typescript-eslint/eslint-plugin@latest eslint-config-airbnb@latest eslint-plugin-import@^2.21.2 eslint-plugin-jsx-a11y@^6.3.0 eslint-plugin-react-hooks@^4 @typescript-eslint/parser@latest
+
+
+
