@@ -1,0 +1,8 @@
+#instalar typeORM
+yarn add typeorm pg
+
+
+#criar migrations
+yarn typeorm migration:create -n CreateAppointments
+
+#executar migrations
