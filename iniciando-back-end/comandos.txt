@@ -6,3 +6,9 @@ yarn add typeorm pg
 yarn typeorm migration:create -n CreateAppointments
 
 #executar migrations
+yarn typeorm migration:run
+
+#reverter migration (para correções)
+yarn typeorm migration:revert
+
+yarn add reflect-metadata
