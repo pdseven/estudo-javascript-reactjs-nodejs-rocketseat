@@ -6,6 +6,7 @@ import {
   UpdateDateColumn,
   ManyToOne,
   JoinColumn,
+  DeepPartial,
 } from 'typeorm';
 
 import User from './User';

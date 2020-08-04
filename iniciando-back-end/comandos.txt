@@ -16,3 +16,7 @@ yarn add reflect-metadata
 
 #criar models de usuários
 yarn typeorm migration:create -n CreateUsers
+
+
+#criptografar senhas
+yarn add bcryptjs
