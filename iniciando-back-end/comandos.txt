@@ -24,3 +24,8 @@ yarn add bcryptjs
 #JWT
 yarn add jsonwebtoken
 yarn add -D @types/jsonwebtoken
+
+
+#para upload de imagens
+yarn add multer
+yarn add -D @types/multer
