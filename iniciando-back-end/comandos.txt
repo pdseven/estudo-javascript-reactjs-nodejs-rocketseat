@@ -29,3 +29,7 @@ yarn add -D @types/jsonwebtoken
 #para upload de imagens
 yarn add multer
 yarn add -D @types/multer
+
+
+#para que o express possa tratar erros em rotas assíncronas
+yarn add express-async-errors
