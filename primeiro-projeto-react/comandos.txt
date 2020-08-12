@@ -16,3 +16,10 @@ yarn add eslint-import-resolver-typescript -D
 
 #configurar o prettier
 yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
+
+
+#para poder mudar de página via react
+yarn add react-router-dom
+
+#estilização
+yarn add styled-components
