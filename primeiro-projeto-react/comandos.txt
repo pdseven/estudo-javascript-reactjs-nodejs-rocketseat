@@ -23,3 +23,7 @@ yarn add react-router-dom
 
 #estilização
 yarn add styled-components
+
+
+#para consumir a API
+yarn add axios
